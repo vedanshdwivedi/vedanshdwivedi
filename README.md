@@ -1,9 +1,10 @@
 <h1 align="left"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hey there, I'm Vedansh Dwivedi</h1>
 <p align="left">
+
+<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPER-blue" alt="FULL STACK DEVELOPER" />
   
 - 👀 I’m interested in exploring, designing and coding
-- 🌱 I’m currently learning ReactJS, NodeJS, Azure Devops
-- 💞️ I’m looking to collaborate on Upwork 
+- 💞️ I’m looking to collaborate on Upwork
 - 📫 How to reach me: vedansh.devofficial@gmail.com
 
 
