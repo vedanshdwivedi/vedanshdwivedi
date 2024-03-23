@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning ReactJS, NodeJS, Azure Devops
 - 💞️ I’m looking to collaborate on Upwork 
 - 📫 How to reach me: vedansh.devofficial@gmail.com
-- Schedule a meet <a href="https://calendly.com/vedansh-devofficial/meet-up-with-vedansh-dwivedi">Here</a>
-
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&label=PROFILE+VISITS)
