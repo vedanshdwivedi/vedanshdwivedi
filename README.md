@@ -7,15 +7,28 @@
 - 📫 How to reach me: vedansh.devofficial@gmail.com
 - Schedule a meet <a href="https://calendly.com/vedansh-devofficial/meet-up-with-vedansh-dwivedi">Here</a>
 
+
+
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&label=PROFILE+VISITS)
 
-<a href="https://twitter.com/VedanshDwivedi_" target="_blank">
-  <img align="center" src="https://img.shields.io/twitter/follow/VedanshDwivedi_?color=1DA1F2&label=The+Bird&logo=twitter&style=for-the-badge" alt="Twitter" />
-</a>  
+<p>
+  <a href="">
+    <img align="center" src="https://img.shields.io/badge/Schedule_a_meet-here-blue" alt="Calendly" />
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/vedansh-dwivedi/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/vedansh-dwivedi/" alt="Linkedin" />
-</a>
+<p>
+  <a href="https://twitter.com/VedanshDwivedi_" target="_blank">
+    <img align="center" src="https://img.shields.io/twitter/follow/VedanshDwivedi_?color=1DA1F2&label=The+Bird&logo=twitter&style=for-the-badge" alt="Twitter" />
+  </a>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/vedansh-dwivedi/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/vedansh-dwivedi/" alt="Linkedin" />
+  </a>  
+</p>
+
 
 
 
