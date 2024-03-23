@@ -5,7 +5,7 @@
 - 📫 How to reach me: vedansh.devofficial@gmail.com
 - Schedule a meet <a href="https://calendly.com/vedansh-devofficial/meet-up-with-vedansh-dwivedi">Here</a>
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&label=PROFILE+VISITS+SINCE+MARCH+2024)
+![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&label=PROFILE+VISITS)
 
 
 
