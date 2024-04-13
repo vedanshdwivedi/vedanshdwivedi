@@ -11,7 +11,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-username&color=blue&style=plastic&label=PROFILE+VISITS)
 
 <p>
-  <a href="">
+  <a href="https://calendly.com/vedansh-devofficial/meet-up-with-vedansh-dwivedi">
     <img align="center" src="https://img.shields.io/badge/Schedule_a_meet-here-blue" alt="Calendly" />
   </a>
 </p>
