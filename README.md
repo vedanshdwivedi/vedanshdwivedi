@@ -5,6 +5,7 @@
   
 - 👀 I’m interested in exploring, designing and coding
 - 💞️ I’m looking to collaborate on Upwork
+- My Blog: https://blog.veedyapp.store/
 - 📫 How to reach me: vedansh.devofficial@gmail.com
 
 
