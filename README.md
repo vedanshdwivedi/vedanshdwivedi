@@ -19,7 +19,7 @@
 
 <p>
   <a href="https://twitter.com/VedanshDwivedi_" target="_blank">
-    <img align="center" src="https://img.shields.io/twitter/follow/VedanshDwivedi_?color=1DA1F2&label=The+Bird&logo=twitter&style=for-the-badge" alt="Twitter" />
+    <img align="center" src="https://img.shields.io/twitter/follow/VedanshDwivedi_?color=1DA1F2&label=Twitter&logo=twitter&style=for-the-badge" alt="Twitter" />
   </a>
 </p>
 
